@@ -4,7 +4,7 @@
 
 Public repository for managing bugs and issues using Github Issues.
 
-[Play Now](https://rangersteve.io)
+[Play Ranger Steve Now](https://rangersteve.io)
 
 # Cake, Icing, and Sprinkles
 
