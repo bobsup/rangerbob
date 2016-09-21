@@ -6,6 +6,13 @@ Public repository for managing bugs and issues using Github Issues.
 
 [Play Ranger Steve Now](https://rangersteve.io)
 
+# Goals
+
+- Fix all bugs and hold 60 FPS
+- Gamemodes (capture the flag) and maps
+- Ranked games
+- The same thing we do every night, - try to take over the world!
+
 # Cake, Icing, and Sprinkles
 
 ### Cake
