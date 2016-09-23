@@ -36,4 +36,5 @@ If you want to map the collision layer too here's the sprite to help you.
 
 - All related images (tiles.png, background.png, or etc.)
 - The JSON export of the map
-- 
+- Include a signature image or something so I can credit you
+- michaeljamescalkins@gmail.com
