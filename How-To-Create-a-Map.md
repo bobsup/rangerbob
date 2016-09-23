@@ -16,6 +16,10 @@ Source spritesheet:
 
 ![](http://i.imgur.com/Gc73ZKA.png)
 
-# 3. Export to JSON for Phaser
+# 3. Create a `tiles` and `collision` layer
+
+![](http://i.imgur.com/qwhORB6.png)
+
+# 4. Export to JSON for Phaser
 
 ![](http://i.imgur.com/bsqDpWh.png)
