@@ -8,11 +8,15 @@ http://www.mapeditor.org/download.html
 
 # 2. Use a spritesheet for tiles
 
-Source spritesheet:
+- Maps are 24x24 tiles
+- The smaller the faster it will run, don't be afraid to push it
+- If there is a `background` layer or something just make sure I have the assets to load it
+
+Example source spritesheet:
 
 ![](http://i.imgur.com/vl5kzop.png)
 
-24x24 tile version spritesheet:
+Example 24x24 tile version spritesheet:
 
 ![](http://i.imgur.com/Gc73ZKA.png)
 
