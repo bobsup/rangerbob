@@ -1,5 +1,3 @@
-IN PROGRESS
-
 # 1. Download Tiled
 
 Tiled creates tilemaps that Ranger Steve relies on to create collisions.
