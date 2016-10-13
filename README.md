@@ -13,4 +13,5 @@ Public repository for managing bugs and issues using Github Issues.
 - [ ] Gamemodes (capture the flag) and maps
 - [ ] Track user progress
 
-![http://i.imgur.com/Lgj8hph.png](http://i.imgur.com/Lgj8hph.png)
+![http://imgur.com/fPtQjv7.jpg](http://imgur.com/fPtQjv7.jpg)
+![http://imgur.com/5ZKrMtq.jpg](http://imgur.com/5ZKrMtq.jpg)
