@@ -6,12 +6,5 @@ Public repository for managing bugs and issues using Github Issues.
 
 [Play Ranger Steve Now](https://rangersteve.io)
 
-# Goals
-
-- [ ] Fix all bugs and hold 60 FPS
-- [ ] Character class for each gun
-- [ ] Gamemodes (capture the flag) and maps
-- [ ] Track user progress
-
 ![http://imgur.com/fPtQjv7.jpg](http://imgur.com/fPtQjv7.jpg)
 ![http://imgur.com/5ZKrMtq.jpg](http://imgur.com/5ZKrMtq.jpg)
