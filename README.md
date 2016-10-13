@@ -8,21 +8,9 @@ Public repository for managing bugs and issues using Github Issues.
 
 # Goals
 
-- Fix all bugs and hold 60 FPS
-- Gamemodes (capture the flag) and maps
-- Ranked games
-- The same thing we do every night, - try to take over the world!
+- [ ] Fix all bugs and hold 60 FPS
+- [ ] Character class for each gun
+- [ ] Gamemodes (capture the flag) and maps
+- [ ] Track user progress
 
-# Cake, Icing, and Sprinkles
-
-### Cake
-
-Things the game can't exist without like core mechanics.
-
-### Icing
-
-Things that it doesn't need right now but would make it better.
-
-### Sprinkles
-
-Polishy things and desires you have but know the game doesn't need it.
+![http://i.imgur.com/Lgj8hph.png](http://i.imgur.com/Lgj8hph.png)
